@@ -25,7 +25,7 @@ reAnalyst is structured into two main categories:
 To get started with reAnalyst, clone this repository and navigate to the respective directory for image or non-image data analysis. Follow the `README.md` instructions within each subdirectory for specific setup and usage guidelines.
 
     ```bash
-    git clone https://github.com/your-github-username/reAnalyst.git
+    git clone https://github.com/csl-ugent/reAnalyst.git
     cd reAnalyst
     ```
 
